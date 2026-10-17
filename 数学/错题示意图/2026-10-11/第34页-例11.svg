@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="425" viewBox="0 0 440 425" role="img" aria-labelledby="title desc">
+<title id="title">第34页例11：圆形纸片挖去三个小圆</title>
+<desc id="desc">按题意重绘，不按比例。外圆直径a+2b，沿直径排列三个互不重叠的白色小圆，直径依次a、b、b。阴影是外圆内且在三个小圆外的所有区域。</desc>
+<rect width="440" height="425" fill="white"/>
+<g stroke="#222" stroke-width="2">
+<circle cx="220" cy="200" r="150" fill="#999"/>
+<circle cx="130" cy="200" r="60" fill="white"/>
+<circle cx="235" cy="200" r="45" fill="white"/>
+<circle cx="325" cy="200" r="45" fill="white"/>
+<path d="M70 200H370" fill="none" stroke-width="1"/>
+<path d="M70 42V25H370V42" fill="none" stroke-width="1.5"/>
+</g>
+<g font-family="Arial,Microsoft YaHei,sans-serif" text-anchor="middle" font-size="19" fill="#111">
+<text x="220" y="20">a+2b</text>
+<text x="130" y="193">a</text><text x="235" y="193">b</text><text x="325" y="193">b</text>
+<text x="220" y="379" font-size="15">灰色：剩余纸片；白色：挖去的三个小圆</text>
+<text x="220" y="407" font-size="14">按题意重绘，不按比例</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="330" viewBox="0 0 500 330" role="img" aria-labelledby="title desc">
+<title id="title">第19题：相邻正方形与中点分割面积</title>
+<desc id="desc">按题意绘制，不按比例。正方形ABCD与BEFG位于AE上侧，A、B、E依次共线，H为AE中点。灰色为两正方形中除去白色三角形ADH和HEF的剩余部分。</desc>
+<rect width="500" height="330" fill="white"/>
+<g transform="translate(50,5)" stroke="#222" stroke-width="1.8" stroke-linejoin="round">
+<path d="M40 250V50H240V170H320V250Z" fill="#b6c5d1"/>
+<path d="M40 250V50L180 250Z" fill="white"/>
+<path d="M180 250H320V170Z" fill="white"/>
+<path d="M40 250V50H240V250Z M240 250V170H320V250Z M40 50L180 250L320 170" fill="none"/>
+<path d="M107 246l6 8 M247 246l6 8" fill="none"/>
+</g>
+<g font-family="Arial,Microsoft YaHei,sans-serif" font-size="18" text-anchor="middle" fill="#111">
+<text x="78" y="274">A</text><text x="295" y="277">B</text><text x="299" y="48">C</text><text x="78" y="48">D</text>
+<text x="381" y="274">E</text><text x="381" y="169">F</text><text x="280" y="165">G</text><text x="230" y="277">H</text>
+<text x="67" y="158">a</text><text x="399" y="217">b</text>
+<text x="250" y="310" font-size="15">按题意绘制，不按比例；AH=HE</text>
+</g>
+</svg>
