@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 125" width="420" height="250" role="img" aria-label="第22题原始三角形ABC的示意重绘，B、C在水平直线上">
-  <g fill="none" stroke="#111" stroke-width="1.7" stroke-linejoin="round">
-    <path d="M22 99H191 M46 99L98 29L153 99"/>
-  </g>
-  <g fill="#111" font-family="serif" font-style="italic" font-size="15">
-    <text x="93" y="23">A</text><text x="40" y="116">B</text><text x="150" y="116">C</text>
-  </g>
-</svg>
