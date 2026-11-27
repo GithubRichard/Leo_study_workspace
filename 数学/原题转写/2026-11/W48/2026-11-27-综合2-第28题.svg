@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 308 154" width="462" height="231" role="img" aria-label="第28题图①正方形分割图，图②正方形ABCD与EFGA及阴影三角形BCF、FGD">
+  <g fill="none" stroke="#222" stroke-width="1.5">
+    <path d="M25 23H123V121H25Z M94 23V121 M25 92H123"/>
+    <path d="M182 23H280V121H182Z M224 23V65H280 M182 23L224 65L280 121 M182 121L224 65"/>
+  </g>
+  <g fill="#777" stroke="#222" stroke-width="1.2">
+    <path d="M182 23L224 65L182 121Z"/><path d="M224 65H280V121Z"/>
+  </g>
+  <g font-family="serif" font-size="13" font-style="italic" fill="#222">
+    <text x="55" y="17">a</text><text x="105" y="17">b</text><text x="13" y="59">a</text><text x="13" y="111">b</text>
+    <text x="170" y="27">B</text><text x="285" y="27">A</text><text x="170" y="124">C</text><text x="285" y="124">D</text><text x="220" y="18">E</text><text x="227" y="60">F</text><text x="285" y="69">G</text>
+  </g>
+  <g text-anchor="middle" font-size="12" fill="#222"><text x="74" y="141">图①</text><text x="231" y="141">图②</text></g>
+</svg>
